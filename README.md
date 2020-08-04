@@ -25,7 +25,7 @@
 
 Under development
 
-<img src="assets/images/print_screen_1.png" width="400">
+<img src="assets/images/print_screen_1.png">
 
 <!-- <p>
 <img src="assets/images/print_screen_1.jpeg" width="200">  <img src="assets/images/print_screen_2.jpeg" width="200">  <img src="assets/images/print_screen_3.jpeg" width="200"> <img src="assets/images/print_screen_4.jpeg" width="200">
