@@ -32,20 +32,20 @@
     opacity: 0.6;
 }
 
-.page-header .header-content{
+.page-header .header-content {
     width: 90%;
     margin: 0 auto;
     position: relative;
     margin: 3.2rem auto;      
 }
 
-.page-header .header-content strong{
+.page-header .header-content strong {
     font: 700 3.6rem Archivo;
     line-height: 4.2rem;
     color: var(--color-title-in-primary);
 }
 
-@media(min-width: 700px){
+@media(min-width: 700px) {
     .page-header{
         height: 340px;
     }
