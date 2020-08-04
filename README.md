@@ -21,9 +21,11 @@
   </a>
 </p>
 
-# :trophy: Hero App
+# :books: Proffy
 
 Under development
+
+<img src="assets/images/print_screen_1.jpeg" width="400">
 
 <!-- <p>
 <img src="assets/images/print_screen_1.jpeg" width="200">  <img src="assets/images/print_screen_2.jpeg" width="200">  <img src="assets/images/print_screen_3.jpeg" width="200"> <img src="assets/images/print_screen_4.jpeg" width="200">
