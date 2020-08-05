@@ -16,7 +16,7 @@ app.use(express.json());
 
 
 app.get('/', (request, response) => {
-    return response.json();
+    return response.json(   );
 });
 
 
