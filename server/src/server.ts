@@ -1,4 +1,5 @@
 import express from 'express';
+import routes from './routes';
 
 const app = express();
 
@@ -13,11 +14,9 @@ app.use(express.json());
 //Route Params: identificar qual recurso eu quero atualizar ou deletar
 //Query Params: responsavel por listar por paginacao, filtros ou ordenacao
 
-
-
-app.get('/', (request, response) => {
-    return response.json(   );
-});
+app.use(express.json());
+//app.use(cors);
+app.use(routes);
 
 
 app.listen(3333);

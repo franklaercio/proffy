@@ -4,7 +4,7 @@ export async function up(knex: Knex){
    return knex.schema.createTable('connections', table => {
        table.integer("user_id").notNullable().references("id").inTable("users").onUpdate('').onDelete("CASCADE");
 
-       table.timestamp('created_ad').defaultTo('now()').notNullable();
+       table.timestamp('created_ad').defaultTo(knex.raw('CURRENT_TIMESTAMP')).notNullable();
    });
 }
 
