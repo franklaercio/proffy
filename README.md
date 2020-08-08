@@ -1,5 +1,5 @@
 <h2 align="center"> 
-  Proffy
+  :books: Proffy
 </h1>
 
 <p align="center">
@@ -21,13 +21,17 @@
   </a>
 </p>
 
-# :books: Proffy
+## Resume of application
 
-Under development
+This project is a tool for create connections by education classes. In this is possible find teachers and create your personal profile for learning subject. The project was created in the Next Level Week 2.0 (Rocketseat).
 
+1. Page home of application web
 <img src="assets/images/print_screen_1.png">
+2. Page find teachers of application web
 <img src="assets/images/print_screen_2.png">
-<img src="assets/images/print_screen_3.png">
+3. Page create proffy of application web
+<img src="assets/images/print_screen_3.png" height="600">
+
 
 ## :mag_right: Getting Started
 
