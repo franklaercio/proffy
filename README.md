@@ -55,4 +55,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :newspaper: Acknowledgments
 
-Under development
+React
+React Native
+Node.js
