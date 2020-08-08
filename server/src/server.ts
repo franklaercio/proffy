@@ -14,9 +14,8 @@ app.use(express.json());
 // Corpo (request body) para criar um dado normalmente eles vem no corpo da requisicao
 //Route Params: identificar qual recurso eu quero atualizar ou deletar
 //Query Params: responsavel por listar por paginacao, filtros ou ordenacao
-
+app.use(cors());
 app.use(express.json());
-app.use(cors);
 app.use(routes);
 
 
