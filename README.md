@@ -26,10 +26,8 @@
 Under development
 
 <img src="assets/images/print_screen_1.png">
-
-<!-- <p>
-<img src="assets/images/print_screen_1.jpeg" width="200">  <img src="assets/images/print_screen_2.jpeg" width="200">  <img src="assets/images/print_screen_3.jpeg" width="200"> <img src="assets/images/print_screen_4.jpeg" width="200">
-</p> -->
+<img src="assets/images/print_screen_2.png">
+<img src="assets/images/print_screen_3.png">
 
 ## :mag_right: Getting Started
 
