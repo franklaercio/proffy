@@ -25,12 +25,8 @@
 
 This project is a tool for create connections by education classes. In this is possible find teachers and create your personal profile for learning subject. The project was created in the Next Level Week 2.0 (Rocketseat).
 
-1. Page home of application web
 <img src="assets/images/print_screen_1.png">
-2. Page find teachers of application web
 <img src="assets/images/print_screen_2.png">
-3. Page create proffy of application web
-<img src="assets/images/print_screen_3.png" height="600">
 
 
 ## :mag_right: Getting Started
@@ -57,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :newspaper: Acknowledgments
 
-React
-React Native
-Node.js
+- React
+- React Native
+- Node.js
