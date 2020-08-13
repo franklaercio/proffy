@@ -21,7 +21,7 @@
   </a>
 </p>
 
-## :newspaper: Resume of application
+## :bookmark_tabs: Resume of application
 
 This project is a tool for create connections by education classes. In this is possible find teachers and create your personal profile for learning subject. The project was created in the Next Level Week 2.0 (Rocketseat).
 
