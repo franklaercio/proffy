@@ -21,16 +21,18 @@
   </a>
 </p>
 
-## Resume of application
+## :bookmark_tabs: Resume of application
 
 This project is a tool for create connections by education classes. In this is possible find teachers and create your personal profile for learning subject. The project was created in the Next Level Week 2.0 (Rocketseat).
 
-1. Page home of application web
-<img src="assets/images/print_screen_1.png">
-2. Page find teachers of application web
-<img src="assets/images/print_screen_2.png">
-3. Page create proffy of application web
-<img src="assets/images/print_screen_3.png" height="600">
+<p align="center">
+  <img src="assets/images/print_screen_1.png" alt="Page home of application web">
+  <img src="assets/images/print_screen_2.png" alt="Page find teachers of application web">
+</p>  
+
+<p>
+  <img alt="HomePage app" width="200" src="https://user-images.githubusercontent.com/38151364/90080080-14532600-dce0-11ea-85e8-efcd1f2b6818.jpeg" />
+</p>
 
 
 ## :mag_right: Getting Started
@@ -57,6 +59,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :newspaper: Acknowledgments
 
-React
-React Native
-Node.js
+- React
+- React Native
+- Node.js
