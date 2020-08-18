@@ -12,17 +12,17 @@ function TeacherList() {
             <PageHeader title="Proffys disponíveis" >
                 <View style={styles.searchForm}>
                     <Text style={styles.label}>Matérias</Text>
-                    <TextInput style={styles.input} placeholder="Qual a matéria?" />
+                    <TextInput style={styles.input} placeholder="Qual a matéria?" placeholderTextColor="c1bccc" />
 
                     <View style={styles.inputGroup}>
                         <View style={styles.inputBlock}>
                             <Text style={styles.label}>Dia da semana</Text>
-                            <TextInput style={styles.input} placeholder="Qual o dia?" />
+                            <TextInput style={styles.input} placeholder="Qual o dia?" placeholderTextColor="c1bccc"/>
                         </View>
 
                         <View style={styles.inputBlock}>
                             <Text style={styles.label}>Horário</Text>
-                            <TextInput style={styles.input} placeholder="Qual o horário?" />
+                            <TextInput style={styles.input} placeholder="Qual o horário?" placeholderTextColor="c1bccc"/>
                         </View>
                     </View>
                 </View>
