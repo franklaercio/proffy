@@ -1,5 +1,5 @@
 import React from 'react';
-import {View, ScrollView} from 'react-native';
+import {View, ScrollView, Text} from 'react-native';
 
 import styles from './styles';
 import PageHeader from '../../components/PageHeader';
@@ -12,7 +12,19 @@ function TeacherList() {
             <PageHeader title="Proffys disponíveis" >
                 <View style={styles.searchForm}>
                     <Text style={styles.label}>Matérias</Text>
-                    <TextInput style={styles.input} placeholder={styles.input}>Qual a matéria?</TextInput>
+                    <TextInput style={styles.input} placeholder="Qual a matéria?" />
+
+                    <View style={styles.inputGroup}>
+                        <View style={styles.inputBlock}>
+                            <Text style={styles.label}>Dia da semana</Text>
+                            <TextInput style={styles.input} placeholder="Qual o dia?" />
+                        </View>
+
+                        <View style={styles.inputBlock}>
+                            <Text style={styles.label}>Horário</Text>
+                            <TextInput style={styles.input} placeholder="Qual o horário?" />
+                        </View>
+                    </View>
                 </View>
             </PageHeader>    
 
