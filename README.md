@@ -32,6 +32,9 @@ This project is a tool for create connections by education classes. In this is p
 
 <p>
   <img alt="HomePage app" width="200" src="https://user-images.githubusercontent.com/38151364/90080080-14532600-dce0-11ea-85e8-efcd1f2b6818.jpeg" />
+  <img alt="GiveClasses app" width="200" src="https://user-images.githubusercontent.com/38151364/90471777-6d162a80-e0f5-11ea-8cb8-1024bc1939a0.jpg" />
+  <img alt="Search app" width="200" src="https://user-images.githubusercontent.com/38151364/90471821-815a2780-e0f5-11ea-82f8-4f5008fdfb0f.jpg" />
+  <img alt="List app" width="200" src="https://user-images.githubusercontent.com/38151364/90471803-78695600-e0f5-11ea-861a-d0b9c0fc5b37.jpg" />
 </p>
 
 
