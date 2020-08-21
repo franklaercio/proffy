@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
   },
 
   searchForm: {
-    marginBottom: 28,
+    marginBottom: 26,
   },
 
   label: {
@@ -20,13 +20,13 @@ const styles = StyleSheet.create({
   },
 
   input: {
-    height: 54,
+    height: 52,
     backgroundColor: '#FFF',
-    borderRadius: 8,
+    borderRadius: 9,
     justifyContent: 'center',
-    paddingHorizontal: 16,
-    marginTop: 4,
-    marginBottom: 16,
+    paddingHorizontal: 17,
+    marginTop: 5,
+    marginBottom: 17,
   },
 
   inputGroup: {
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   textSubmitButton: {
     color: '#FFF',
     fontFamily: 'Archivo_700Bold',
-    fontSize: 16,
+    fontSize: 17,
   }
 });
 
